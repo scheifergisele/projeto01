@@ -9,7 +9,12 @@
     border: dotted 4px purple;
 }
 
-#link:hover{
+#link{
     color: aquamarine;
+    text-decoration: none;
+}
+
+#link:hover{
+    color: rgb(255, 127, 234);
     text-decoration: none;
 }
