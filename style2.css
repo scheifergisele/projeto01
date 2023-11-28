@@ -1,1 +1,8 @@
-#link
+#link{
+    color: aquamarine;
+    text-decoration: none;
+}
+#link:hover{
+    color: blueviolet;
+    
+}
